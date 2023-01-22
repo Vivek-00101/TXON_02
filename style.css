@@ -16,6 +16,22 @@
 
 }
 
+.text{
+    font-size: x-large;
+    border-style: dashed;
+    border-color: crimson;
+    border-radius: 20px;
+    margin-right: 65%;
+}
+.text span.text1{
+    color: #3ff727;
+    
+}
+
+.text span.text2{
+    color: #27d4f7;
+}
+
 .calculator{
     background: #3a4452;
     padding: 20px;
