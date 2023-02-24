@@ -11,5 +11,5 @@ How it looks...
 
 -  [Calculator](https://vivek-00101.github.io/TXON_02/)
 
-## 🛠 Language
+## 🛠 Language Used
 HTML, CSS, JS
